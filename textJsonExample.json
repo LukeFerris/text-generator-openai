@@ -1,3 +1,6 @@
 {
-  "exampleWelcomeMessageOneParagraph": "This will be the text content generated. It will be of a matching size to the description."
+  "textPlaceholderName": {
+    "guidelines": "Any guidelines found within the comments",
+    "content": "The generated content adhering to the guidelines"
+  }
 }
